@@ -1,4 +1,4 @@
-# 🎯 How to Start **Student-Post Microservices Application** 🚀
+#  How to Start **Student-Post Microservices Application** 
 
 This guide will help you set up and run the **Student-Post Microservices** step by step.
 
@@ -40,4 +40,4 @@ This guide will help you set up and run the **Student-Post Microservices** step 
 
 ---
 
-Now, your microservices should be running successfully! 🚀
+Now, your microservices should be running successfully! 
