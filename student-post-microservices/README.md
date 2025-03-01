@@ -5,8 +5,8 @@ This guide will help you set up and run the **Student-Post Microservices** step 
 ---
 
 > ## **Step 1: Configure Database**  
-> Update the database username and password in the `application.yaml` file located in the `src/main/resources/application.yaml`.  
-> (If the file does not exist, create this file.)
+> Update the database username and password in the `student-service.yaml` and post-service files located in your githup repo.  
+> (If the file does not exist, then create a public github repo and create these files. Please note that you can use the sample given files avaible at 'https://github.com/LBUSESC/microservices-config-server')
 
 ---
 
