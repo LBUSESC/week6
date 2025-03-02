@@ -31,10 +31,10 @@ This guide will help you set up and run the Student-Post Microservices step by s
 > Run the `student-service` microservice.
 
 
-> #### Step 6: Start Post-Service**  
+> #### Step 6: Start Post-Service  
 > Run the `post-service` microservice.
 
-> #### Step 7: Testing with Postman**  
+> #### Step 7: Testing with Postman  
 > Use the Postman collection in the repository to test `student` and `post` microservices.
 
 Now, your microservices should be running successfully! 
