@@ -7,7 +7,7 @@ This guide will help you set up and run the Student-Post Microservices step by s
 > Option A: You must configure your local database username and password as `username: root` and `password: root` to execute the student
   and post microservices. OR
 > 
-> Option B: Update the database username and password in the `student-service.yaml` and `post-service.yaml` files located in your
+> Option B: Update the database username and password in the `student-service.yaml` and `topic-service.yaml` files located in your
   github repo. (If you don't have github repo with these yaml files, then create a public github repo with similar yaml files
   avaible at https://github.com/LBUSESC/microservices-config-server) and update this github repo `url` in the `application.yaml` file
   located in the `src/main/resources` directory of config-server microservice.
@@ -32,10 +32,10 @@ This guide will help you set up and run the Student-Post Microservices step by s
 
 
 > #### Step 6: Start Post-Service  
-> Run the `post-service` microservice.
+> Run the `topic-service` microservice.
 
 > #### Step 7: Testing with Postman  
-> Use the Postman collection in the repository to test `student` and `post` microservices.
+> Use the Postman collection in the repository to test `student` and `topic` microservices.
 
 Now, your microservices should be running successfully! 
 
