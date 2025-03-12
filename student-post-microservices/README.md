@@ -19,13 +19,11 @@ This guide will help you set up and run the Student-Post Microservices step by s
 > Start the Eureka Server for service registration and discovery.
 
 
->  #### Step 3: Start API Gateway 
-> Run the API Gateway to manage microservice routing.
-
- 
-> #### Step 4: Start Config Server 
+> #### Step 3: Start Config Server 
 > Start the Config Server to load configurations.
 
+>  #### Step 4: Start API Gateway 
+> Run the API Gateway to manage microservice routing.
 
 > #### Step 5: Start Student-Service  
 > Run the `student-service` microservice.
